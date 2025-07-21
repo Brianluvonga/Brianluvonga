@@ -10,36 +10,7 @@
   <img src="https://img.shields.io/github/stars/Brianluvonga?label=Stars&style=social" alt="GitHub stars" />
 </div>
 
-## 🚀 About Me
-
-```python
-class CybersecurityExpert:
-    def __init__(self):
-        self.name = "Brian Luvonga Muyekho"
-        self.role = "Cybersecurity Researcher & Full Stack Developer"
-        self.location = "Kenya 🇰🇪"
-        self.current_focus = ["Penetration Testing", "Threat Hunting", "Cloud Security"]
-        self.languages_spoken = ["English", "Swahili"]
-    
-    def current_projects(self):
-        return [
-            "🔍 Advanced Malware Analysis Framework",
-            "🛡️ Custom SIEM Dashboard",
-            "🌐 Multi-Cloud Security Automation",
-            "📱 Mobile App Security Scanner"
-        ]
-    
-    def daily_routine(self):
-        return "☕ Coffee → 🔍 Threat Hunting → 💻 Code → 🏋️ Gym → 📚 Research → 😴 Sleep"
-
-me = CybersecurityExpert()
-```
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brianluvonga&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak Stats" />
-</div>
-
-## 🛡️ Cybersecurity Arsenal
+## 🛡️ Cybersecurity Toolset
 
 <div align="center">
 
@@ -57,12 +28,12 @@ me = CybersecurityExpert()
 ```bash
 ┌─[brian@security]─[~]
 └──╼ $ cat specializations.txt
-📊 Penetration Testing    ████████████████████ 95%
-🔍 Vulnerability Assessment ███████████████████ 90%
-🛡️ Network Security      ████████████████████ 92%
-🚨 SIEM Management       ██████████████████   85%
-🦠 Malware Analysis      ███████████████████  88%
-🕵️ Digital Forensics    ██████████████████   82%
+📊 Penetration Testing    ████████████████████ 75%
+🔍 Vulnerability Assessment ███████████████████ 70%
+🛡️ Network Security      ████████████████████ 80%
+🚨 SIEM Management       ██████████████████   80%
+🦠 Malware Analysis      ███████████████████  65%
+🕵️ Digital Forensics    ██████████████████   90%
 ```
 
 ## 💻 Tech Stack
@@ -152,8 +123,8 @@ Cloud Platforms:
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brianluvonga&repo=security-toolkit&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFF&icon_color=00F7FF)](https://github.com/Brianluvonga/security-toolkit)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brianluvonga&repo=flutter-portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFF&icon_color=00F7FF)](https://github.com/Brianluvonga/flutter-portfolio)
+[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=Brianluvonga&repo=security-toolkit&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFF&icon_color=00F7FF)](https://github.com/Brianluvonga/security-toolkit](https://github.com/Brianluvonga/mytune))
+[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=Brianluvonga&repo=flutter-portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFF&icon_color=00F7FF)](https://github.com/Brianluvonga/flutter-portfolio](https://github.com/Brianluvonga/simplify_commerce))
 
 </div>
 
@@ -218,4 +189,4 @@ Cloud Platforms:
 
 <div align="center">
   <b>⭐ Star my repositories if you find them useful!</b><br>
-</div>## 
+</div>
