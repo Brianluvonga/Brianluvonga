@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brianluvonga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<!--   <img src="https://komarev.com/ghpvc/?username=Brianluvonga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> -->
   <img src="https://img.shields.io/github/followers/Brianluvonga?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Brianluvonga?label=Stars&style=social" alt="GitHub stars" />
 </div>
@@ -88,7 +88,7 @@ Cloud Platforms:
 ```
 📅 Dec 2023 - Present
 🎯 Penetration Testing | Vulnerability Assessment | SIEM Deployment
-📈 Successfully assessed 50+ client systems
+📈 Successfully assessed 10+ client systems
 ```
 
 ### 🏢 Previous Roles
