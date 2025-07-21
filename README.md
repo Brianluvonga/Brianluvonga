@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Brian Luvonga Muyekho
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher+%F0%9F%94%92;Penetration+Tester+%F0%9F%8E%AF;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;T24+Temenos+Consultant+%F0%9F%8F%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher+%F0%9F%94%92;Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -218,20 +218,4 @@ Cloud Platforms:
 
 <div align="center">
   <b>⭐ Star my repositories if you find them useful!</b><br>
-  <i>Last updated: $(date)</i>
-</div>## Hi there 👋
-
-<!--
-**Brianluvonga/Brianluvonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>## 
