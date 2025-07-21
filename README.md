@@ -171,21 +171,7 @@ Cloud Platforms:
 
 </div>
 
-## 🎵 Currently Coding To
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-</div>
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Brianluvonga/Brianluvonga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=50&descAlign=50" />
-</div>
 
 <div align="center">
   <b>⭐ Star my repositories if you find them useful!</b><br>
