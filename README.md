@@ -39,7 +39,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,dart,html,css,react,flutter,django,nodejs,mysql,postgresql,firebase,azure,github,linux,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,dart,html,css,react,flutter,django,nodejs,mysql,postgresql,nextjs,firebase,azure,github,linux,docker" alt="Tech Stack" />
 </div>
 
 ### 🔧 Development Environment
