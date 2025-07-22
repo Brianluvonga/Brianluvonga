@@ -123,16 +123,18 @@ Cloud Platforms:
 
 <div align="center">
 
-[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=Brianluvonga&repo=security-toolkit&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFF&icon_color=00F7FF)](https://github.com/Brianluvonga/security-toolkit](https://github.com/Brianluvonga/mytune))
-[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=Brianluvonga&repo=flutter-portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFF&icon_color=00F7FF)](https://github.com/Brianluvonga/flutter-portfolio](https://github.com/Brianluvonga/simplify_commerce))
+[![Alimo Engineering](https://img.shields.io/badge/🏗️_Alimo_Engineering-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](https://alimoengineering.co.ke)
+[![OVS Kenya](https://img.shields.io/badge/🔍_OVS_Kenya-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](https://ovs.co.ke)
 
 </div>
 
 ### 🎯 Project Highlights
-- 🔒 **Advanced Threat Detection System** - Python-based ML solution
+- 🏗️ **[Alimo Engineering](https://alimoengineering.co.ke)** - Professional engineering consultancy platform with modern web architecture
+- 🔍 **[OVS Kenya](https://ovs.co.ke)** - Comprehensive vehicle inspection and verification system
+- 🔒 **Advanced Threat Detection System** - Python-based ML solution for real-time security monitoring
 - 📱 **Mobile Security Scanner** - Flutter app for Android security assessment  
-- 🛡️ **Custom SIEM Dashboard** - Real-time security monitoring
-- 🌐 **Web Vulnerability Scanner** - Automated security testing tool
+- 🛡️ **Custom SIEM Dashboard** - Real-time security monitoring and incident response
+- 🌐 **Web Vulnerability Scanner** - Automated security testing tool for web applications
 
 ## 🏅 Certifications & Education
 
