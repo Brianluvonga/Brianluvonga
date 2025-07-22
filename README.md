@@ -124,14 +124,13 @@ Cloud Platforms:
 <div align="center">
 
 [![Alimo Engineering](https://img.shields.io/badge/🏗️_Alimo_Engineering-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](https://alimoengineering.co.ke)
-[![OVS Supplies Tanzania](https://img.shields.io/badge/🔍_OVS_Supplies-Tanzania-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](ovsaquasupplies.co.tz)
+[![OVS Supplies Tanzania](https://img.shields.io/badge/🔍_OVS_SuppliesTanzania-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](ovsaquasupplies.co.tz)
 [![Acres Engineering Kenya](https://img.shields.io/badge/🔍_AcresEngineering_Kenya-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](acresengineering.co.ke)
 
 </div>
 
 ### 🎯 Project Highlights
 - 🏗️ **[Alimo Engineering](https://alimoengineering.co.ke)** - Professional engineering consultancy platform with modern web architecture
-- 🔍 **[OVS Kenya](https://ovs.co.ke)** - Comprehensive vehicle inspection and verification system
 - 🔒 **Advanced Threat Detection System** - Python-based ML solution for real-time security monitoring
 - 📱 **Mobile Security Scanner** - Flutter app for Android security assessment  
 - 🛡️ **Custom SIEM Dashboard** - Real-time security monitoring and incident response
