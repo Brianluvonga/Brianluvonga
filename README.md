@@ -55,8 +55,6 @@ Operating Systems:
 IDEs & Editors:
   - VS Code with Security Extensions
   - PyCharm Professional
-  - Sublime Text
-  - Vim (for quick edits)
 
 Security Tools:
   - Custom Python Scripts
@@ -124,8 +122,8 @@ Cloud Platforms:
 <div align="center">
 
 [![Alimo Engineering](https://img.shields.io/badge/🏗️_Alimo_Engineering-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](https://alimoengineering.co.ke)
-[![OVS Supplies Tanzania](https://img.shields.io/badge/🔍_OVS_SuppliesTanzania-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](ovsaquasupplies.co.tz)
-[![Acres Engineering Kenya](https://img.shields.io/badge/🔍_AcresEngineering_Kenya-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](acresengineering.co.ke)
+[![OVS Supplies Tanzania](https://img.shields.io/badge/🔍_OVS_SuppliesTanzania-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](https://ovsaquasupplies.co.tz)
+[![Acres Engineering Kenya](https://img.shields.io/badge/🔍_AcresEngineering_Kenya-Visit_Website-00F7FF?style=for-the-badge&logo=web&logoColor=white)](https://acresengineering.co.ke)
 
 </div>
 
